@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Arpita 👋</h1>
 <p align="center">
-  <strong>Frontend Developer</strong> · React · Angular · Node.js · GenAI enthusiast  
+  <strong>Frontend Developer</strong> · React · Angular · Node.js · AI enthusiast  
   <br/>Focused on building clean UI and real product-like applications.
 </p>
 
